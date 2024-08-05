@@ -13,7 +13,7 @@ body {
 }
 
 .header__avatar {
-  border-radius: 30%;
+  border-radius: 100%;
 }
 
 .header__title {
